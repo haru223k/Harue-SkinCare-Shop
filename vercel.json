@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/index.html#shop/admin", "destination": "/admin/index.html" }
+    ]
+  }
